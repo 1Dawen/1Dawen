@@ -34,7 +34,7 @@ Unsupervised anomaly detection using Isolation Forest, engineered network featur
 
 ## Professional Experience
 
-At Sekiura, I work on security operations and develop supporting systems involving:
+I work on security operations and develop supporting systems involving:
 
 - Data ingestion, transformation, and validation.
 - PostgreSQL data modeling and reporting.
