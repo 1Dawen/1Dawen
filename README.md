@@ -10,10 +10,13 @@ Outside of work, I've developed projects in supervised learning, anomaly detecti
 ## Technical Skills
 
 - **Languages:** Python, SQL, JavaScript, C++, C
-- **Machine Learning:** scikit-learn, PyTorch, XGBoost, CatBoost
-- **Data:** pandas, NumPy, PostgreSQL, Power BI
-- **Development:** Git, Docker, REST APIs, FastAPI, n8n
-
+- **Machine Learning:** Supervised and unsupervised learning, deep learning, feature engineering, model training, evaluation, and hyperparameter tuning
+  - **Areas of Application:** Computer vision, natural language processing (NLP), predictive modeling, and anomaly detection
+- **ML & Data Libraries:**  PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, pandas, NumPy
+- **Data Engineering & Analytics:** PostgreSQL, data preprocessing, ETL pipelines, data visualization, Power BI
+- **Development & Infrastructure:** Git, Docker, FastAPI, REST APIs, n8n, Linux, and containerized applications
+- **Cloud & DevOps**: Kubernetes, Terraform, Ansible, Azure, Google Cloud Platform (GCP)
+- **Data Orchestration & Transformation:** Apache Airflow, dbt
 ## Featured Projects
 
 **[Dental Cavity Detection](https://github.com/1Dawen/NIR-Dental-Cavity-Detection)**
