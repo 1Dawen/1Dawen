@@ -2,8 +2,7 @@
 
 **Computer Engineering Graduate | Data Science & Machine Learning | Python & Data Automation**
 
-I'm a Computer Engineering graduate, with an interest in Machine Learning, Data Science, and building practical software solutions.
-
+I'm a Computer Engineering graduate, with an interest in Machine Learning, computer vision, predictive modeling and building practical software solutions.
 I currently work as an L2 Security Analyst, where much of my work involves data processing, automation, database design, API integrations, and AI-assisted workflows.
 
 Outside of work, I've developed projects in supervised learning, anomaly detection, natural language processing, and computer vision. I'm particularly interested in model development, feature engineering, evaluation, and applying ML to real problems.
